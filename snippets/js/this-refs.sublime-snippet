@@ -2,7 +2,7 @@
     <content><![CDATA[
 this.refs.${1}
 ]]></content>
-    <tabTrigger>refs</tabTrigger>
+    <tabTrigger>this.r</tabTrigger>
     <scope>source.js</scope>
     <description>React: this.refs.</description>
 </snippet>

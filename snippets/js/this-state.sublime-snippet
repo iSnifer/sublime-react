@@ -2,7 +2,7 @@
     <content><![CDATA[
 this.state.${1}
 ]]></content>
-    <tabTrigger>state</tabTrigger>
+    <tabTrigger>this.s</tabTrigger>
     <scope>source.js</scope>
     <description>React: this.state.</description>
 </snippet>

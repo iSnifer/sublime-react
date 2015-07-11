@@ -1,10 +1,8 @@
 <snippet>
     <content><![CDATA[
-cx({
-	$1: $2
-});
+cn({$1: $2});
 ]]></content>
-    <tabTrigger>cx</tabTrigger>
+    <tabTrigger>cn</tabTrigger>
     <scope>source.js</scope>
-    <description>React: cx({ ... })</description>
+    <description>React: cn({ ... })</description>
 </snippet>

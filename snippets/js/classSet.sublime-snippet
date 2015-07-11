@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-var cx = React.addons.classSet;
+import cn from 'classnames';
 ]]></content>
-    <tabTrigger>cs</tabTrigger>
+    <tabTrigger>imcn</tabTrigger>
     <scope>source.js</scope>
-    <description>React: var cx = React.addons.classSet;</description>
+    <description>React: import cn from 'classnames';</description>
 </snippet>
